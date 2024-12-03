@@ -21,3 +21,5 @@ collapseMenu.addEventListener("click", collapseContent);
 function collapseContent() {
     menu.style.display = "none";
 }
+
+console.log("Hello world!");
